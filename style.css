@@ -1,0 +1,60 @@
+body { 
+	background: #CCDDD3; 
+	color: #993955;
+	font-family: Helvetica;
+	margin: 0; /* deletes Auto-Abstand zu den Seiten*/ 
+	}
+
+#banner {
+	text-align: center;
+	background-image: url("https://source.unsplash.com/random/800x600");
+	background-size: cover;
+	padding: 150px; 
+	color: white;
+	text-shadow: 1px 1px 5px black;
+    }
+	
+a {
+	text-decoration: none;
+	color: #F1BF98;
+   }
+   
+.all {
+	padding: 20px;
+	margin: 20px;
+	border: dashed #e85d80 3px;
+	border-radius: 10%;
+	text-align: center;
+	opacity: 0.8;
+} 
+
+   
+a:hover {
+	color: #E8C6D0;
+}
+
+p {
+	
+}
+  
+h1 {
+	font-family: 'Bangers', cursive;
+}
+
+h2 {
+	font-family: 'Bangers', cursive;
+}
+
+
+
+.fab {
+	color: white;
+	
+}
+
+footer {
+	color: #ADA0FF;
+	background: #8A7968;
+	padding: 30px;
+	text-align: center;
+}
